@@ -4,7 +4,7 @@
 
 ---
 
-## 🎯 Features
+##  Features
 
 - **Log Ingestion**: Upload CSV network logs for analysis
 - **Anomaly Detection**: Uses Isolation Forest (scikit-learn) to identify suspicious traffic patterns
@@ -15,7 +15,7 @@
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 ┌─────────────────┐
@@ -48,7 +48,7 @@
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 cyber_ai_agent/
@@ -67,7 +67,7 @@ cyber_ai_agent/
 
 ---
 
-## 🚀 Setup Instructions
+##  Setup Instructions
 
 ### Prerequisites
 - Python 3.8+
@@ -102,7 +102,7 @@ cyber_ai_agent/
 
 ---
 
-## 🎮 Running the Application
+##  Running the Application
 
 1. **Start the Streamlit app**
    ```bash
@@ -120,7 +120,7 @@ cyber_ai_agent/
 
 ---
 
-## 📊 Sample Log Format
+##  Sample Log Format
 
 Your CSV file should have the following columns:
 
@@ -134,7 +134,7 @@ A sample file is provided in `data/logs.csv`.
 
 ---
 
-## 🧩 Component Breakdown
+##  Component Breakdown
 
 ### 1. **detector.py** - Anomaly Detection
 - **Class**: `LogAnalyzer`
@@ -164,7 +164,7 @@ A sample file is provided in `data/logs.csv`.
 
 ---
 
-## 🔐 Security Notes
+##  Security Notes
 
 - **Never commit API keys** to version control
 - Use environment variables or `.env` files for production
@@ -172,7 +172,7 @@ A sample file is provided in `data/logs.csv`.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Component | Technology |
 |-----------|-----------|
@@ -186,7 +186,7 @@ A sample file is provided in `data/logs.csv`.
 
 ---
 
-## 📝 Example Workflow
+##  Example Workflow
 
 1. **Upload logs** → System loads CSV into Pandas DataFrame
 2. **Anomaly detection** → Isolation Forest identifies outliers
@@ -196,7 +196,7 @@ A sample file is provided in `data/logs.csv`.
 
 ---
 
-## 🎓 Learning Outcomes
+##  Learning Outcomes
 
 This project demonstrates:
 - Machine learning for anomaly detection
@@ -207,7 +207,7 @@ This project demonstrates:
 
 ---
 
-## 🚧 Future Enhancements
+##  Future Enhancements
 
 - Real-time log streaming (Apache Kafka)
 - Email/Slack alerts for critical threats
@@ -217,16 +217,4 @@ This project demonstrates:
 
 ---
 
-## 📄 License
 
-This project is for educational purposes. Modify and use as needed.
-
----
-
-## 🤝 Contributing
-
-Feel free to fork, improve, and submit pull requests!
-
----
-
-**Built with ❤️ for Cyber Security Professionals**
