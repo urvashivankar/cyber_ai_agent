@@ -4,6 +4,7 @@ langchain
 langchain-community
 langchain-openai
 langchain-google-genai
-streamlit
 matplotlib
 python-dotenv
+streamlit>=1.30.0
+altair==4.2.2
