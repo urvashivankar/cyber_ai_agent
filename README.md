@@ -2,7 +2,7 @@
 
 **Autonomous SOC Assistant** - An intermediate-level AI agent that analyzes network logs, detects anomalies, classifies cyber threats, and generates actionable incident reports.
 
-🔗 **[Live Demo](https://cyberaiagent-edac4kkjzv4hsmgrs4k37i.streamlit.app/)** | 📂 **[GitHub Repository](https://github.com/urvashivankar/cyber_ai_agent)**
+ **[Live Demo](https://cyberaiagent-edac4kkjzv4hsmgrs4k37i.streamlit.app/)** 
 
 ---
 
